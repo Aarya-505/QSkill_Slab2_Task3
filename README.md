@@ -1,5 +1,10 @@
 # End-to-End Fraud Detection & Risk Analysis System
 
+**Intern Name:** Arya Mohanrao Mandke  
+**Intern ID:** qsds2608113
+
+**Domain:** Data Science 
+
 **QSkill Internship - Task 3**
 
 This repository contains a complete, end-to-end machine learning pipeline for detecting fraudulent financial transactions. The project involves exploratory data analysis (EDA), data cleaning, handling extreme class imbalance, and training multiple classification models to identify potentially fraudulent behavior.
